@@ -1,7 +1,7 @@
 # jdk15
 
 > ## JDK 15 DevDojo - YouTube.
-> ```
+> ```java
 > System.out.println("Hello Java");
 > ```
 
